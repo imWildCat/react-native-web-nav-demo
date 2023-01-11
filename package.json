@@ -1,8 +1,8 @@
 {
-  "name": "my-webpack-project",
+  "name": "react-native-web-nav-demo",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "WTFPL",
   "devDependencies": {
     "@babel/core": "^7.20.12",
     "@babel/preset-react": "^7.18.6",

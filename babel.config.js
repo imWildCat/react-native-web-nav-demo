@@ -6,6 +6,6 @@ module.exports = {
   ],
   plugins: [
     ['react-native-web'],
-    // "nativewind/babel",
+    "nativewind/babel",
   ]
 };

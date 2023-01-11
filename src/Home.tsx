@@ -4,7 +4,7 @@ import { View, Text } from "react-native"
 export const HomePage: React.FC = () => {
   return (
     <View>
-      <Text>das</Text>
+      <Text className="text-lg text-blue-500">Hello, world!</Text>
     </View>
   )
 };
